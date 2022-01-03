@@ -14,6 +14,7 @@ $ cd classesMD5-64
 $ bash install.sh
 $ python fixsms.py whatsapp.apk
 ```
+## Important
 Make sure the whatsapp.apk file is already in the classesMD5-64 folder
 
 ## Connect With Me
