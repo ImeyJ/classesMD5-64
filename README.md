@@ -10,9 +10,12 @@
 ## Clone Repo & install bash
 ```bash
 $ git clone https://github.com/PitoDevID/classesMD5-64
-$ cd fixsms
+$ cd classesMD5-64
 $ bash install.sh
+$ python fixsms.py whatsapp.apk
 ```
+## Warning
+<h1 align="center">Make sure the whatsapp.apk file is already in the classesMD5-64 folder</h1>
 
 ## Connect With Me
 <p align="center">
