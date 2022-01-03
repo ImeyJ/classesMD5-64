@@ -9,7 +9,7 @@
 # Installation
 ## Clone Repo & install bash
 ```bash
-$ git clone https://github.com/PitoDevID/self-bot.git
+$ git clone https://github.com/PitoDevID/classesMD5-64
 $ cd fixsms
 $ bash install.sh
 ```
